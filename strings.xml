@@ -1,1 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
 
+<resources>
+
+    <string name="app_name">BruteForce Estimator</string>
+
+    <string name="title_password_tester">
+        BruteForce Estimator
+    </string>
+
+    <string name="subtitle_password_tester">
+        Check your password strength and estimate its brute-force cracking time.
+    </string>
+
+    <string name="password_label">Enter a password</string>
+
+    <string name="input_instruction">
+        Try a sample password to check its estimated strength.
+    </string>
+
+    <string name="password_hint">Type a sample password</string>
+    <string name="show_password">Show password</string>
+
+    <string name="privacy_notice">
+        The entered password is processed locally and is not stored.
+    </string>
+
+    <string name="button_test">Test Password</string>
+    <string name="button_reset">Reset</string>
+
+    <string name="strength_title">Password Strength</string>
+    <string name="strength_default">Strength: Not tested</string>
+
+    <string name="result_title">Calculation Details</string>
+
+    <string name="cracking_time_default">
+        Estimated time to crack: —
+    </string>
+
+    <string name="length_default">
+        Password length: —
+    </string>
+
+    <string name="characters_default">
+        Character types: —
+    </string>
+
+    <string name="charset_default">
+        Character-set size: —
+    </string>
+
+    <string name="combinations_default">
+        Possible combinations: —
+    </string>
+
+    <string name="calculation_note">
+        Calculation assumes 10 billion password guesses per second.
+    </string>
+
+    <string name="button_view_recommendation">
+        View Security Recommendation
+    </string>
+
+    <string name="recommendation_dialog_title">
+        Security Recommendation
+    </string>
+
+    <string name="button_close">Close</string>
+
+    <string name="error_empty_password">
+        Please enter a password
+    </string>
+
+    <string name="strength_result">
+        Strength: %1$s
+    </string>
+
+    <string name="length_result">
+        Password length: %1$d characters
+    </string>
+
+    <string name="characters_result">
+        Character types: %1$s
+    </string>
+
+    <string name="charset_result">
+        Character-set size: %1$d
+    </string>
+
+    <string name="combinations_result">
+        Possible combinations: %1$s
+    </string>
+
+    <string name="cracking_time_result">
+        Estimated time to crack: %1$s
+    </string>
+
+</resources>
