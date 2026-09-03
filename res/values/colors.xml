@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-
 <resources>
 
     <color name="white">#FFFFFF</color>
@@ -20,7 +19,6 @@
     <color name="strength_good">#E0A800</color>
     <color name="strength_strong">#168A45</color>
 
-    <color name="recommendation_background">#E8F7EE</color>
     <color name="recommendation_text">#126B38</color>
 
 </resources>
