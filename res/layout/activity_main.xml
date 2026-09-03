@@ -28,6 +28,7 @@
             android:paddingEnd="18dp"
             android:paddingBottom="36dp">
 
+            <!-- Application header -->
             <LinearLayout
                 android:id="@+id/layoutHeader"
                 android:layout_width="match_parent"
@@ -59,6 +60,7 @@
 
             </LinearLayout>
 
+            <!-- Password input section -->
             <LinearLayout
                 android:id="@+id/layoutInputCard"
                 android:layout_width="match_parent"
@@ -126,6 +128,7 @@
 
             </LinearLayout>
 
+            <!-- Strength and calculation results -->
             <LinearLayout
                 android:id="@+id/layoutResultCard"
                 android:layout_width="match_parent"
