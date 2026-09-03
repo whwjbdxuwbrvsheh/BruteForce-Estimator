@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-
 <resources>
 
     <string name="app_name">BruteForce Estimator</string>
 
-    <string name="title_password_tester">
-        BruteForce Estimator
-    </string>
+    <string name="title_password_tester">BruteForce Estimator</string>
 
     <string name="subtitle_password_tester">
         Check your password strength and estimate its brute-force cracking time.
@@ -20,10 +17,6 @@
 
     <string name="password_hint">Type a sample password</string>
     <string name="show_password">Show password</string>
-
-    <string name="privacy_notice">
-        The entered password is processed locally and is not stored.
-    </string>
 
     <string name="button_test">Test Password</string>
     <string name="button_reset">Reset</string>
