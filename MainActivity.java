@@ -89,6 +89,13 @@ public class MainActivity extends AppCompatActivity {
             return;
         }
 
+        if (password.length() > 64) {
+            editTextPassword.setError("Password must be 64 characters or fewer.");
+            return;
+        }
+
+        editTextPassword.setError(null);
+
         int length = password.length();
         int charsetSize = 0;
         int typeCount = 0;
